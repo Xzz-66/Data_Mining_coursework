@@ -50,5 +50,5 @@ We compared:
 ### Numerical prediction
 We compared:
 - **Ridge regression** on the feature-engineered dataset,
-- and an **LSTM ensemble** on daily sequences. fileciteturn0file1L229-L266
+- and an **LSTM ensemble** on daily sequences.
 
